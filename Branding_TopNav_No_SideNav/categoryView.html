@@ -1,0 +1,13 @@
+<section>
+    <div class="row">
+        <div ng-class="{ 'col-md-12': navStatus.visible, 'col-md-12': !navStatus.visible }" >
+
+            <categorylistview></categorylistview>
+
+            <loadingindicator ng-show="productLoadingIndicator" title="{{'Please wait while we fetch all products' | r | xlat}}"/>
+
+            <productlistview></productlistview>
+
+        </div>
+    </div>
+</section>

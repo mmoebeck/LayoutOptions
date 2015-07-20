@@ -1,0 +1,20 @@
+/*
+Static file for Theme changes
+Theme name: My SPA Theme
+Version: 1.0
+Template: Howdy
+*/
+.jumbotron .container {
+    height: 240px;
+    overflow: hidden;
+    padding: 0;
+    width: 928px;
+}
+.navbar-fixed-top {
+    margin-top: 222px;
+    position: static;
+}
+.text-success {
+  color: #3c763d;
+  font-size: 18px;
+}
