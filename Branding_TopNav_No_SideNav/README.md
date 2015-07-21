@@ -2,6 +2,8 @@
 
 This layout has the branding section above the navigation section.  It does not use the side category navigation.  All the needed files are listed above and their raw code is available by clicking into each file.
 
+<img src="http://www.four51.com/Themes/Custom/44a345ec-b447-4197-8cd1-dc727af8e069/LayoutOptions/Branding_TopNav_No_SideNav.PNG">
+
 ##Setup
 ###1. Add the **`partials/categoryView.html`** file to your project.
 
