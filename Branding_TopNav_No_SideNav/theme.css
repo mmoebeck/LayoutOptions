@@ -45,7 +45,7 @@
 		top: auto;
 	}
 	.navbar-fixed-bottom {
-		position: static; /* change to position: absolute to add fix to bottom back */
+		position: fixed; /* change to position: absolute to add fix to bottom back */
 		margin-bottom: 15px;
 	}
 	.jumbotron {
