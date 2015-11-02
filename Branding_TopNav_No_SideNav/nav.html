@@ -1,5 +1,5 @@
 <header class="header navbar navbar-inner">
-    <nav tolerance='20' offset='200' class="navbar navbar-default navbar-fixed-top" role="navigation" headroom>
+    <nav tolerance='20' offset='200' class="navbar navbar-default" role="navigation" headroom>
         <section>
             <div class="container">
                 <ul class="nav navbar-nav pull-left">
@@ -87,19 +87,23 @@
                 </ul>
                 <ul class="nav navbar-nav pull-right">
                     <li class="cart" ng-class="{'active': isActive(['cart', 'checkout'])}">
-                        <a id="451qa_cart_link" ng-show="cartCount && user.CurrentOrderID" class="cart" href="cart">
+                        <a id="451qa_cart_link" ng-show="(cartCount && cartCount > 0) && user.CurrentOrderID" class="cart" href="cart">
                             <span ng-bind="cartCount" class="badge"></span>
                             <i class="fa fa-shopping-cart"></i>
                             <i class="fa fa-caret-down"></i>
                         </a>
                     </li>
-                    <li class="pull-right">
-                        <a href="search">
-                            <span><i class="fa fa-search text-primary"></i></span>
-                        </a>
-                    </li>
                 </ul>
             </div>
         </section>
+    </nav>
+    <!--Only Show Mega Nav on Smaller Devices -->
+    <nav class="dropdown-mega hidden-md hidden-lg">
+        <a class="dropdown-toggle text-center" data-toggle="dropdown">
+            <i class="fa fa-angle-down text-primary"></i>
+        </a>
+        <ul class="451qa_topnav dropdown-menu" >
+            <categorytree tree='tree' current='currentCategory' />
+        </ul>
     </nav>
 </header>

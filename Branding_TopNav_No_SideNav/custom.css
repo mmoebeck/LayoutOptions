@@ -4,17 +4,40 @@ Theme name: My SPA Theme
 Version: 1.0
 Template: Howdy
 */
-.jumbotron .container {
-    height: 240px;
-    overflow: hidden;
-    padding: 0;
-    width: 928px;
+
+.main-wrapper {
+  background-color:#FFFFFF;
+  max-width: 1500px;
+  margin: 0 auto;
 }
-.navbar-fixed-top {
-    margin-top: 222px;
-    position: static;
+.jumbotron {
+  margin:0px;
+  background-color: transparent;
 }
-.text-success {
-  color: #3c763d;
-  font-size: 18px;
+.jumbotron h2 img {
+  max-height: 90px;
+}
+
+/* Bootstrap assumes "Phone First", so all the above definitions control the view on an extra small device*/
+/* Use Media Queries to change css on elements as the screen grows larger */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  /*.class {
+    property:value;
+  }*/
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  /*.class {
+    property:value;
+  }*/
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  /*.class {
+    property:value;
+  }*/
 }
