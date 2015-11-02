@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d39ecd81-a09a-49c1-98cc-70ac69d4c7e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Branding_TopNav_With_SideNav/README.md" afterPath="$PROJECT_DIR$/Branding_TopNav_With_SideNav/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html" afterPath="$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html" afterPath="$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html" />
     </list>
     <ignored path="LayoutOptions.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,10 +25,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav/README.md">
+        <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03824522">
-              <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
+            <state vertical-scroll-proportion="0.21034871">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -44,6 +45,11 @@
         <option value="$PROJECT_DIR$/Branding_TopNav_No_SideNav/README.md" />
         <option value="$PROJECT_DIR$/Branding_TopNav_No_SideNav/custom.css" />
         <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav/README.md" />
+        <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/custom.css" />
+        <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/index.html" />
+        <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html" />
+        <option value="$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html" />
+        <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/README.md" />
       </list>
     </option>
   </component>
@@ -113,7 +119,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Branding_TopNav_With_SideNav_FullScreen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LayoutOptions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LayoutOptions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Branding_TopNav_With_SideNav" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LayoutOptions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LayoutOptions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Branding_TopNav_No_SideNav" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,30 +244,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
-          <folding>
-            <marker date="1443640809607" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1443640809607" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Branding_TopNav_No_SideNav/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.5555553">
@@ -270,6 +280,134 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.03824522">
           <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5010917">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21011236">
+          <caret line="11" column="70" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav/branding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11460674">
+          <caret line="6" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09550562">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09550562">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/branding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09550562">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6866812">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21034871">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
