@@ -10,7 +10,7 @@ Template: Howdy
   background-color: transparent;
 }
 .jumbotron h2 img {
-  max-height: 90px;
+  max-height: 100%;
 }
 
 /* Bootstrap assumes "Phone First", so all the above definitions control the view on an extra small device*/
