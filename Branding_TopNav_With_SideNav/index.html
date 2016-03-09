@@ -1,16 +1,15 @@
 <!doctype html>
 <html lang="en" ng-app="451order" ng-controller="Four51Ctrl">
 <head>
-	<!--baseTagToken-->
+    <!--baseTagToken-->
     <!--headscriptToken-->
-    <meta name="fragment" content="!">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Order Cloud</title>
-	<link rel="stylesheet" href="css/bootstrap-451.css" data-group="source" />
-	<link rel="stylesheet" href="css/editor.css" data-group="source" />
-	<link rel="stylesheet" href="css/theme.css" data-group="source" />
-	<link rel="stylesheet" href="css/custom.css" data-group="source" />
+    <link rel="stylesheet" href="css/bootstrap-451.css" data-group="source" />
+    <link rel="stylesheet" href="css/editor.css" data-group="source" />
+    <link rel="stylesheet" href="css/theme.css" data-group="source" />
+    <link rel="stylesheet" href="css/custom.css" data-group="source" />
     <link href='//fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css' />
     <link href='//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css' />
     <link rel="stylesheet" href="css/animate.min.css" />
@@ -53,7 +52,7 @@
     </section>
 </section>
 
-    <!--<script type="text/javascript" src="//dl1d2m8ri9v3j.cloudfront.net/releases/1.2.4/tracker.js" data-customer="bfec7bded14d43a7ace2697594e1369d"></script>-->
+ <!--<script type="text/javascript" src="//dl1d2m8ri9v3j.cloudfront.net/releases/1.2.4/tracker.js" data-customer="bfec7bded14d43a7ace2697594e1369d"></script>-->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js" data-group="cdn"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js" data-group="cdn"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular-sanitize.min.js" data-group="cdn"></script>
@@ -63,6 +62,7 @@
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular-route.min.js" data-group="cdn"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular-touch.min.js" data-group="cdn"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular-loader.min.js" data-group="cdn"></script>
+    <script src="//cdn.ckeditor.com/4.4.7/basic/ckeditor.js" data-group="cdn"></script>
 
     <script src="lib/store.js" data-group="resources"></script>
     <script src="lib/angular_ui/ui-utils.min.js" data-group="resources"></script>
@@ -73,6 +73,7 @@
     <script src="lib/angular/plugins/Debouncer.js" data-group="resources"></script>
     <script src="lib/angular/plugins/ngAutocomplete.js" data-group="resources"></script>
     <script src="lib/oc/anonRouter.js" data-group="resources"></script>
+    <script src="lib/oc/ordercloud-specforms.js" data-group="resources"></script>
 
     <script src="//maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>
 
@@ -97,21 +98,21 @@
     <script src="js/controllers/messageViewCtrl.js" data-group="source"></script>
     <script src="js/controllers/favoriteOrderCtrl.js" data-group="source"></script>
     <script src="js/controllers/userEditCtrl.js" data-group="source"></script>
-	<script src="js/controllers/giftCardRedemptionCtrl.js" data-group="source"></script>
+    <script src="js/controllers/giftCardRedemptionCtrl.js" data-group="source"></script>
     <script src="js/controllers/addressInputCtrl.js" data-group="source"></script>
     <script src="js/controllers/addressListCtrl.js" data-group="source"></script>
     <script src="js/controllers/addressViewCtrl.js" data-group="source"></script>
     <script src="js/controllers/cartCtrl.js" data-group="source"></script>
     <script src="js/controllers/checkOutViewCtrl.js" data-group="source"></script>
     <script src="js/controllers/approvalInputCtrl.js" data-group="source"></script>
-	<script src="js/controllers/specFormCtrl.js" data-group="source"></script>
-	<script src="js/controllers/conditionsCtrl.js" data-group="source"></script>
+    <script src="js/controllers/specFormCtrl.js" data-group="source"></script>
+    <script src="js/controllers/conditionsCtrl.js" data-group="source"></script>
     <script src="js/controllers/reportsCtrl.js" data-group="source"></script>
-	<script src="js/controllers/reportCtrl.js" data-group="source"></script>
-	<script src="js/controllers/productSearchCtrl.js" data-group="source"></script>
-	<script src="js/controllers/lineItemEditCtrl.js" data-group="source"></script>
-	<script src="js/controllers/relatedProductsCtrl.js" data-group="source"></script>
-	<script src="js/controllers/shortProductViewCtrl.js" data-group="source"></script>
+    <script src="js/controllers/reportCtrl.js" data-group="source"></script>
+    <script src="js/controllers/productSearchCtrl.js" data-group="source"></script>
+    <script src="js/controllers/lineItemEditCtrl.js" data-group="source"></script>
+    <script src="js/controllers/relatedProductsCtrl.js" data-group="source"></script>
+    <script src="js/controllers/shortProductViewCtrl.js" data-group="source"></script>
     <script src="js/controllers/securityCtrl.js" data-group="source"></script>
     <script src="js/controllers/orderTypeSelectorCtrl.js" data-group="source"></script>
     <script src="js/controllers/reportViewCtrl.js" data-group="source"></script>
@@ -121,20 +122,20 @@
     <script src="js/services/errorService.js" data-group="source"></script>
     <script src="js/services/securityService.js" data-group="source"></script>
     <script src="js/services/userService.js" data-group="source"></script>
-	<script src="js/services/productDisplayService.js" data-group="source"></script>
+    <script src="js/services/productDisplayService.js" data-group="source"></script>
     <script src="js/services/orderService.js" data-group="source"></script>
     <script src="js/services/orderConfigService.js" data-group="source"></script>
     <script src="js/services/orderSearchService.js" data-group="source"></script>
     <script src="js/services/orderStatsService.js" data-group="source"></script>
     <script src="js/services/productService.js" data-group="source"></script>
-	<script src="js/services/variantService.js" data-group="source"></script>
+    <script src="js/services/variantService.js" data-group="source"></script>
     <script src="js/services/categoryService.js" data-group="source"></script>
     <script src="js/services/messageService.js" data-group="source"></script>
-	<script src="js/services/messageListService.js" data-group="source"></script>
+    <script src="js/services/messageListService.js" data-group="source"></script>
     <script src="js/services/favoriteOrderService.js" data-group="source"></script>
     <script src="js/services/accountsService.js" data-group="source"></script>
     <script src="js/services/addressService.js" data-group="source"></script>
-	<script src="js/services/addressListService.js" data-group="source"></script>
+    <script src="js/services/addressListService.js" data-group="source"></script>
     <script src="js/services/shipperService.js" data-group="source"></script>
     <script src="js/services/couponService.js" data-group="source"></script>
     <script src="js/services/giftCardService.js" data-group="source"></script>
@@ -153,10 +154,10 @@
     <script src="js/directives/match.js" data-group="source"></script>
     <script src="js/directives/buttonredirect.js" data-group="source"></script>
     <script src="js/directives/product.js" data-group="source"></script>
-	<script src="js/directives/quantityfield.js" data-group="source"></script>
+    <script src="js/directives/quantityfield.js" data-group="source"></script>
     <script src="js/directives/paymentselection.js" data-group="source"></script>
     <script src="js/directives/customtextfield.js" data-group="source"></script>
-	<script src="js/directives/customselectionfield.js" data-group="source"></script>
+    <script src="js/directives/customselectionfield.js" data-group="source"></script>
     <script src="js/directives/customcheckboxfield.js" data-group="source"></script>
     <script src="js/directives/customdatefield.js" data-group="source"></script>
     <script src="js/directives/customtimefield.js" data-group="source"></script>
@@ -183,7 +184,7 @@
     <script src="js/directives/orderapprovals.js" data-group="source"></script>
     <script src="js/directives/daterange.js" data-group="source"></script>
     <script src="js/directives/printing.js" data-group="source"></script>
-	<script src="js/directives/addToOrderSpecs.js" data-group="source"></script>
+    <script src="js/directives/addToOrderSpecs.js" data-group="source"></script>
     <script src="js/directives/imageonload.js" data-group="source"></script>
     <script src="js/directives/ordertypeselector.js" data-group="source"></script>
     <script src="js/directives/creditcard.js" data-group="source"></script>
