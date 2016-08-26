@@ -4,6 +4,7 @@
     <list default="true" id="d39ecd81-a09a-49c1-98cc-70ac69d4c7e5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html" afterPath="$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html" afterPath="$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/index.html" afterPath="$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/index.html" />
     </list>
     <ignored path="LayoutOptions.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,12 +25,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/README.md">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21034871">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding />
+            <state vertical-scroll-proportion="-127.5">
+              <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+              <folding>
+                <marker date="1472221133976" expanded="true" signature="925:1064" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1089:1226" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1227:2365" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1248:1276" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1368:1395" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1396:1833" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1605:1635" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1724:1820" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1853:1864" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1865:2354" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1885:2341" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1906:2320" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="1963:1977" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="2100:2114" placeholder="..." />
+                <marker date="1472221133976" expanded="true" signature="2218:2232" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-32.384617">
+              <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+              <folding>
+                <marker date="1472221133939" expanded="true" signature="925:1064" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1089:1226" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1227:2365" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1248:1276" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1368:1395" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1396:1833" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1605:1635" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1724:1820" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1853:1864" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1865:2354" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1885:2341" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1906:2320" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="1963:1977" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="2100:2114" placeholder="..." />
+                <marker date="1472221133939" expanded="true" signature="2218:2232" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.96118724">
+              <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+              <folding>
+                <marker date="1472221133996" expanded="true" signature="925:1064" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1089:1226" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1227:2365" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1248:1276" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1368:1395" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1396:1833" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1605:1635" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1724:1820" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1853:1864" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1865:2354" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1885:2341" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1906:2320" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="1963:1977" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="2100:2114" placeholder="..." />
+                <marker date="1472221133996" expanded="true" signature="2218:2232" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,10 +115,10 @@
         <option value="$PROJECT_DIR$/Branding_TopNav_No_SideNav/custom.css" />
         <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav/README.md" />
         <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/custom.css" />
-        <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/index.html" />
-        <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html" />
-        <option value="$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html" />
         <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/README.md" />
+        <option value="$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html" />
+        <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html" />
+        <option value="$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/index.html" />
       </list>
     </option>
   </component>
@@ -61,10 +130,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
-    <option name="y" value="25" />
-    <option name="width" value="1920" />
-    <option name="height" value="1052" />
+    <option name="x" value="-1927" />
+    <option name="y" value="26" />
+    <option name="width" value="1934" />
+    <option name="height" value="1061" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -89,8 +158,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -153,6 +220,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,6 +260,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -205,25 +280,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="25" width="1920" height="1052" extended-state="0" />
+    <frame x="-1927" y="26" width="1934" height="1061" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2529349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944915" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944915" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -236,11 +311,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Branding_TopNav_No_SideNav/nav.html">
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_No_SideNav/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -248,7 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.5555553">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -256,7 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -264,7 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.230769">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -272,7 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.5">
           <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -280,7 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.03824522">
           <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -288,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5010917">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -296,7 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21011236">
           <caret line="11" column="70" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -304,55 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11460674">
           <caret line="6" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09550562">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173773" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09550562">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173804" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -360,7 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -368,31 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09550562">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-          <folding>
-            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1446474173820" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -400,15 +400,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6866812">
           <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21034871">
+        <state vertical-scroll-proportion="-5.888889">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_No_SideNav/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-127.5">
+          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding>
+            <marker date="1472221133976" expanded="true" signature="925:1064" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1089:1226" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1227:2365" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1248:1276" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1368:1395" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1396:1833" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1605:1635" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1724:1820" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1853:1864" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1865:2354" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1885:2341" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1906:2320" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="1963:1977" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="2100:2114" placeholder="..." />
+            <marker date="1472221133976" expanded="true" signature="2218:2232" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-32.384617">
+          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding>
+            <marker date="1472221133939" expanded="true" signature="925:1064" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1089:1226" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1227:2365" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1248:1276" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1368:1395" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1396:1833" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1605:1635" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1724:1820" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1853:1864" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1865:2354" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1885:2341" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1906:2320" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="1963:1977" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="2100:2114" placeholder="..." />
+            <marker date="1472221133939" expanded="true" signature="2218:2232" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branding_TopNav_With_SideNav_FullScreen/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.96118724">
+          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding>
+            <marker date="1472221133996" expanded="true" signature="925:1064" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1089:1226" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1227:2365" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1248:1276" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1368:1395" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1396:1833" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1605:1635" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1724:1820" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1853:1864" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1865:2354" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1885:2341" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1906:2320" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="1963:1977" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="2100:2114" placeholder="..." />
+            <marker date="1472221133996" expanded="true" signature="2218:2232" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
